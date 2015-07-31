@@ -102,10 +102,10 @@ void loop(){
  while(isBlack()){
      goLeft(); 
   }
-  delay(50); //temp!
+  delay(50);
   while(!isBlack()){
      goRight(); //turn right at a speed of 100 (out of 255)
   }
   goStraight(); //go straight at a speed of 100
-  delay(15); //allow time to go straight*/
+  delay(15); //allow time to go straight
 }

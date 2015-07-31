@@ -1,6 +1,6 @@
 # Arduino Maze Solver
-###Code by: Horatiu Lazu, overseen by Richard Dang
-###Wiring by: Richard Dang, overseen by Horatiu Lazu
+#####Code by: Horatiu Lazu, overseen by Richard Dang
+#####Wiring by: Richard Dang, overseen by Horatiu Lazu
 
 ##Purpose:
 * Permit a robot to utilize one LDR and traverse through a maze
