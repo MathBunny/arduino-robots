@@ -34,7 +34,6 @@ void setup(){
   pinMode(m2Pin1, OUTPUT);
   pinMode(m2Pin1, OUTPUT);
   pinMode(led, OUTPUT);
-  digitalWrite(led, OUTPUT); //wtf?
 }
 
 /* This method identifies if there is black detected. */
