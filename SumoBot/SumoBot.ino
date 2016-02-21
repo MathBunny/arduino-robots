@@ -25,9 +25,6 @@ const int NON_DOMINANT_TURNING_SPEED = -255;
 /* This is the rotation speed. */
 const int ROTATION_SPEED = 255;
 
-/* This variable stores the max distance to assume that the robot is being pushed. */
-const int PUSHING_ROBOT = 7;
-
 /* This method sets up the pinMode */
 void setup() {
     Serial.begin(9600);
