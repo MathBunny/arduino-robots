@@ -90,12 +90,6 @@ void goBackwards(int speedB){
     updateSpeed();
 }
 
-/*This method gets the reading from an ultrasonic. */
-int getReading(int sensor){
-    return analogRead((1));
-}
-
-
 /* This will get the ping from a sensor. */
 int ping(){
     long duration, inches, cm;
