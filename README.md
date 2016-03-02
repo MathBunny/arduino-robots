@@ -23,6 +23,3 @@ The SumoBot is a robot that utilizes ultrasonic sensors to detect other robots a
 * Code design allows for easy use of methods
 * Turning mechanism allows wheels to rotate on the spot by reversing a wheel
 
-###Known bugs:
-* If the robot is too long and the turning radius is too large, the robot may skip a line
-
